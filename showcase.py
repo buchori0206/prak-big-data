@@ -21,9 +21,8 @@ ticker_dict = {
     'GOOGL': "Google",
     'MSFT': "Microsoft",
     'AAPL': "Apple",
-    'META' : "Facebook Meta"
-    'META' : "Facebook Meta",
-    'ANTM.JK': "PT Aneka Tambang Tbk"
+    'META': "Facebook Meta",
+    'ANTM.JK': "PT Aneka Tambang Tbk",
     'ANTM.JK': "PT Aneka Tambang Tbk", 
     'MCD': "McDonald's Corporation"
 }
