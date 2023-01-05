@@ -21,17 +21,11 @@ ticker_dict = {
     'GOOGL': "Google",
     'MSFT': "Microsoft",
     'AAPL': "Apple",
-<<<<<<< HEAD
     'META' : "Facebook Meta"
-=======
     'META' : "Facebook Meta",
-<<<<<<< HEAD
->>>>>>> 2d1dc17f1b07e68a6d470b61d35c60ff612eef4c
     'ANTM.JK': "PT Aneka Tambang Tbk"
-=======
     'ANTM.JK': "PT Aneka Tambang Tbk", 
     'MCD': "McDonald's Corporation"
->>>>>>> ca631f9039149a6e728b33464cd4307a3a6947ae
 }
 
 st.write("""
@@ -89,8 +83,4 @@ st.plotly_chart(
         title=judul_chart,
         y = attributes
     )
-<<<<<<< HEAD
 )
-=======
-)
->>>>>>> 2d1dc17f1b07e68a6d470b61d35c60ff612eef4c
