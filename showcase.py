@@ -30,7 +30,13 @@ ticker_dict = {
 }
 
 st.write("""
-# Aplikasi Yahoo Finance
+# Aplikasi Yahoo Finance Kelompok 11
+
+## Anggota
+1. Achmad Buchori
+2. Ayu Laksmi S
+3. Anggit Bagas
+
 
 ## Data Saham Beberapa Perusahaan
 
